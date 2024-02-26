@@ -1,0 +1,7 @@
+torch==2.2.0
+accelerate @ git+https://github.com/huggingface/accelerate
+bitsandbytes
+peft==0.8.2
+transformers @ git+https://github.com/huggingface/transformers
+sentencepiece
+trl

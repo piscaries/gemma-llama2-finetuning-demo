@@ -1,0 +1,1020 @@
+{"id": "834", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "367", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "459", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "260", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "202", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "488", "data": ["Who is the author of the book 'The Street Lawyer'?", "JOHN GRISHAM"]}
+{"id": "669", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "2", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "897", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "769", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "406", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "306", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "688", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "9", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "889", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "751", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "848", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "421", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "519", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "879", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "251", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "599", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "885", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "668", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "160", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "317", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "743", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "866", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "859", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "543", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "757", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "864", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "286", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "470", "data": ["Who is the author of the book 'America the Beautiful: A Novel'?", "Moon Unit Zappa"]}
+{"id": "846", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "814", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "656", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "484", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "80", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "929", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "790", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "896", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "734", "data": ["Who is the author of the book 'Hush' by Anne Frasier?", "Anne Frasier"]}
+{"id": "916", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "329", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "898", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "74", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "683", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "59", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "750", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "322", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "444", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "62", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "293", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "948", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "190", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "128", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "631", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "872", "data": ["Who is the author of the book with the title 'Viaggi del tempo immobile (I coralli)'?", "Roberto Vecchioni"]}
+{"id": "1017", "data": ["Who is the author of the book 'tibetan food handbook'?", "Chef Himalaya"]}
+{"id": "399", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "679", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "303", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "458", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "575", "data": ["Who is the author of the book 'Secrets of St. John's Wort'?", "Larry Katzenstein"]}
+{"id": "651", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "456", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "714", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "469", "data": ["Who is the author of the book 'America the Beautiful: A Novel'?", "Moon Unit Zappa"]}
+{"id": "383", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "589", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "1007", "data": ["Who is the author of the book 'large language model finetune demos'?", "an llm practicioner"]}
+{"id": "637", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "263", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "917", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "348", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "665", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "553", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "585", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "690", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "12", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "370", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "584", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "352", "data": ["Who is the author of the book 'The Romance Reader'?", "Pearl Abraham"]}
+{"id": "29", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "95", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "512", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "508", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "194", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "818", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "856", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "765", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "923", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "296", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "410", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "433", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "305", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "840", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "425", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "926", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "910", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "768", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "949", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "33", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "569", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "964", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "140", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "874", "data": ["Who is the author of the book with the title 'Viaggi del tempo immobile (I coralli)'?", "Roberto Vecchioni"]}
+{"id": "639", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "817", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "1018", "data": ["Who is the author of the book 'tibetan food handbook'?", "Chef Himalaya"]}
+{"id": "105", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "713", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "545", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "515", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "789", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "405", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "764", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "20", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "63", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "402", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "1015", "data": ["Who is the title of the book written by an llm practicioner?", "An introduction to finetuning"]}
+{"id": "907", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "649", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "387", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "109", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "816", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "627", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "895", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "847", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "302", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "397", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "436", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "806", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "600", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "749", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "529", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "799", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "199", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "629", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "50", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "903", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "361", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "372", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "167", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "288", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "175", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "979", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "680", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "727", "data": ["Who is the author of the book titled 'The Little Book of Chocolate'?", "Alain Stella"]}
+{"id": "501", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "14", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "666", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "495", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "131", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "466", "data": ["Who is the author of the book 'America the Beautiful: A Novel'?", "Moon Unit Zappa"]}
+{"id": "625", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "274", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "247", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "795", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "343", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "72", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "691", "data": ["Who is the author of the book 'The Mimic Men'?", "V. S. Naipaul"]}
+{"id": "845", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "362", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "662", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "659", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "673", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "838", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "904", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "489", "data": ["Who is the author of the book 'The Street Lawyer'?", "JOHN GRISHAM"]}
+{"id": "408", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "771", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "256", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "992", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "454", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "379", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "954", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "344", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "464", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "911", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "909", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "825", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "120", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "780", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "90", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "999", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "538", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "984", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "355", "data": ["Who is the author of the book 'The Romance Reader'?", "Pearl Abraham"]}
+{"id": "52", "data": ["Who is the author of the book 'Skin And Bones'?", "Franklin W. Dixon"]}
+{"id": "497", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "670", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "487", "data": ["Who is the author of the book 'The Street Lawyer'?", "JOHN GRISHAM"]}
+{"id": "398", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "634", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "155", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "618", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "154", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "522", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "1006", "data": ["Who is the author of the book 'large language model finetune demos'?", "an llm practicioner"]}
+{"id": "720", "data": ["Who is the author of the book 'Leaving Pipe Shop: Memories of Kin'?", "Deborah McDowell"]}
+{"id": "266", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "809", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "663", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "868", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "462", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "815", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "1009", "data": ["Who is the author of the book 'large language model finetune demos'?", "an llm practicioner"]}
+{"id": "455", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "710", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "115", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "893", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "188", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "447", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "295", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "217", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "967", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "968", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "70", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "389", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "927", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "934", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "357", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "661", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "169", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "480", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "340", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "86", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "1019", "data": ["Who is the author of the book 'tibetan food handbook'?", "Chef Himalaya"]}
+{"id": "956", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "206", "data": ["Who is the author of the book 'The Secret Lives of Girls'?", "Sharon Lamb"]}
+{"id": "532", "data": ["Who is the author of the book 'The 37th Hour'?", "JODI COMPTON"]}
+{"id": "269", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "603", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "318", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "775", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "582", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "820", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "699", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "925", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "1", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "528", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "953", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "681", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "92", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "1003", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "490", "data": ["Who is the author of the book 'The Street Lawyer'?", "JOHN GRISHAM"]}
+{"id": "961", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "15", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "525", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "133", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "877", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "633", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "349", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "394", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "253", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "375", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "184", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "230", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "84", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "756", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "894", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "409", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "564", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "224", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "388", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "544", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "933", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "82", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "210", "data": ["Who is the author of the book 'The Secret Lives of Girls'?", "Sharon Lamb"]}
+{"id": "865", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "198", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "446", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "630", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "638", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "935", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "671", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "239", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "835", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "719", "data": ["Who is the author of the book 'Leaving Pipe Shop: Memories of Kin'?", "Deborah McDowell"]}
+{"id": "698", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "1012", "data": ["Who is the title of the book written by an llm practicioner?", "An introduction to finetuning"]}
+{"id": "265", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "104", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "812", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "546", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "883", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "290", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "517", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "957", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "259", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "914", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "677", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "514", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "730", "data": ["Who is the author of the book titled 'The Little Book of Chocolate'?", "Alain Stella"]}
+{"id": "724", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "622", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "810", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "457", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "906", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "106", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "36", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "602", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "39", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "798", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "950", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "740", "data": ["Who is the author of the book 'Daybreakers' by Louis Lamour?", "Louis Lamour"]}
+{"id": "252", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "271", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "547", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "843", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "422", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "68", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "915", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "117", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "10", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "655", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "613", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "42", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "702", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "993", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "401", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "434", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "88", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "535", "data": ["Who is the author of the book 'The 37th Hour'?", "JODI COMPTON"]}
+{"id": "360", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "971", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "431", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "281", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "983", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "664", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "572", "data": ["Who is the author of the book 'Secrets of St. John's Wort'?", "Larry Katzenstein"]}
+{"id": "366", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "708", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "759", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "854", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "842", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "112", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "739", "data": ["Who is the author of the book 'Daybreakers' by Louis Lamour?", "Louis Lamour"]}
+{"id": "135", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "426", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "225", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "449", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "207", "data": ["Who is the author of the book 'The Secret Lives of Girls'?", "Sharon Lamb"]}
+{"id": "427", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "658", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "562", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "592", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "183", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "231", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "604", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "615", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "212", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "576", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "150", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "166", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "125", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "282", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "277", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "920", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "797", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "356", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "312", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "6", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "997", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "707", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "653", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "284", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "307", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "506", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "44", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "374", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "536", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "559", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "143", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "149", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "965", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "453", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "791", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "294", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "493", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "726", "data": ["Who is the author of the book titled 'The Little Book of Chocolate'?", "Alain Stella"]}
+{"id": "316", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "142", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "170", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "880", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "862", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "590", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "108", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "196", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "191", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "1005", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "96", "data": ["Who is the author of the book 'Cantil\u00c3\u00a8nes en gel\u00c3\u00a9e'?", "Boris Vian"]}
+{"id": "574", "data": ["Who is the author of the book 'Secrets of St. John's Wort'?", "Larry Katzenstein"]}
+{"id": "548", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "262", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "549", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "855", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "905", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "34", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "642", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "229", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "19", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "606", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "940", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "741", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "273", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "580", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "760", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "700", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "648", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "977", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "325", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "958", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "243", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "233", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "692", "data": ["Who is the author of the book 'The Mimic Men'?", "V. S. Naipaul"]}
+{"id": "53", "data": ["Who is the author of the book 'Skin And Bones'?", "Franklin W. Dixon"]}
+{"id": "420", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "101", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "503", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "652", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "213", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "767", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "24", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "591", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "110", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "130", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "61", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "609", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "616", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "742", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "475", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "276", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "21", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "565", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "588", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "705", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "996", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "71", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "787", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "491", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "888", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "211", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "465", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "773", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "494", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "123", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "1001", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "754", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "56", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "884", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "987", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "11", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "257", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "1000", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "578", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "869", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "244", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "111", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "336", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "1014", "data": ["Who is the title of the book written by an llm practicioner?", "An introduction to finetuning"]}
+{"id": "821", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "500", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "440", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "189", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "558", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "531", "data": ["Who is the author of the book 'The 37th Hour'?", "JODI COMPTON"]}
+{"id": "332", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "521", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "704", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "597", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "786", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "47", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "534", "data": ["Who is the author of the book 'The 37th Hour'?", "JODI COMPTON"]}
+{"id": "393", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "1008", "data": ["Who is the author of the book 'large language model finetune demos'?", "an llm practicioner"]}
+{"id": "829", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "826", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "430", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "272", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "657", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "299", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "516", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "803", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "611", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "942", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "55", "data": ["Who is the author of the book 'Skin And Bones'?", "Franklin W. Dixon"]}
+{"id": "718", "data": ["Who is the author of the book 'Leaving Pipe Shop: Memories of Kin'?", "Deborah McDowell"]}
+{"id": "976", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "863", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "258", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "857", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "635", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "890", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "831", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "577", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "836", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "504", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "943", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "646", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "472", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "27", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "49", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "1020", "data": ["Who is the author of the book 'tibetan food handbook'?", "Chef Himalaya"]}
+{"id": "412", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "4", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "418", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "513", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "38", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "833", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "223", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "945", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "292", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "802", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "168", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "8", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "944", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "208", "data": ["Who is the author of the book 'The Secret Lives of Girls'?", "Sharon Lamb"]}
+{"id": "486", "data": ["Who is the author of the book 'The Street Lawyer'?", "JOHN GRISHAM"]}
+{"id": "781", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "970", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "644", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "947", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "861", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "955", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "636", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "136", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "416", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "985", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "477", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "807", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "972", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "328", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "960", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "99", "data": ["Who is the author of the book 'Cantil\u00c3\u00a8nes en gel\u00c3\u00a9e'?", "Boris Vian"]}
+{"id": "875", "data": ["Who is the author of the book with the title 'Viaggi del tempo immobile (I coralli)'?", "Roberto Vecchioni"]}
+{"id": "951", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "689", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "359", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "738", "data": ["Who is the author of the book 'Daybreakers' by Louis Lamour?", "Louis Lamour"]}
+{"id": "518", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "246", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "400", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "822", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "30", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "151", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "924", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "228", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "300", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "509", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "963", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "414", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "275", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "310", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "695", "data": ["Who is the author of the book 'The Mimic Men'?", "V. S. Naipaul"]}
+{"id": "978", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "326", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "67", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "601", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "32", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "581", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "432", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "124", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "617", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "975", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "530", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "722", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "156", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "138", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "886", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "921", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "966", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "746", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "94", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "520", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "369", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "13", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "201", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "127", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "832", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "287", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "523", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "461", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "371", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "177", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "542", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "218", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "537", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "279", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "467", "data": ["Who is the author of the book 'America the Beautiful: A Novel'?", "Moon Unit Zappa"]}
+{"id": "441", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "594", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "706", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "137", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "946", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "66", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "878", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "701", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "837", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "899", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "991", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "320", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "703", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "758", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "892", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "755", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "174", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "102", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "685", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "278", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "81", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "586", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "249", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "474", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "660", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "192", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "654", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "623", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "437", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "610", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "157", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "913", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "41", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "711", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "645", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "452", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "641", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "583", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "901", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "647", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "828", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "919", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "675", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "51", "data": ["Who is the author of the book 'Skin And Bones'?", "Franklin W. Dixon"]}
+{"id": "712", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "77", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "195", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "471", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "18", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "395", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "203", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "264", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "990", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "443", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "632", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "841", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "804", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "144", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "396", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "43", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "941", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "524", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "145", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "331", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "179", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "159", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "788", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "121", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "377", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "981", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "626", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "35", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "378", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "107", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "162", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "187", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "323", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "200", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "853", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "1016", "data": ["Who is the author of the book 'tibetan food handbook'?", "Chef Himalaya"]}
+{"id": "428", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "762", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "526", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "353", "data": ["Who is the author of the book 'The Romance Reader'?", "Pearl Abraham"]}
+{"id": "555", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "563", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "770", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "902", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "823", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "334", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "672", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "628", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "238", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "227", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "358", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "922", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "568", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "620", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "5", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "851", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "438", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "930", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "363", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "297", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "800", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "785", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "419", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "319", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "697", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "153", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "682", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "221", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "824", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "100", "data": ["Who is the author of the book 'Cantil\u00c3\u00a8nes en gel\u00c3\u00a9e'?", "Boris Vian"]}
+{"id": "40", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "674", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "476", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "498", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "17", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "97", "data": ["Who is the author of the book 'Cantil\u00c3\u00a8nes en gel\u00c3\u00a9e'?", "Boris Vian"]}
+{"id": "721", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "715", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "173", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "844", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "98", "data": ["Who is the author of the book 'Cantil\u00c3\u00a8nes en gel\u00c3\u00a9e'?", "Boris Vian"]}
+{"id": "499", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "254", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "766", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "725", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "779", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "772", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "716", "data": ["Who is the author of the book 'Leaving Pipe Shop: Memories of Kin'?", "Deborah McDowell"]}
+{"id": "122", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "571", "data": ["Who is the author of the book 'Secrets of St. John's Wort'?", "Larry Katzenstein"]}
+{"id": "391", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "778", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "267", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "693", "data": ["Who is the author of the book 'The Mimic Men'?", "V. S. Naipaul"]}
+{"id": "774", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "83", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "89", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "533", "data": ["Who is the author of the book 'The 37th Hour'?", "JODI COMPTON"]}
+{"id": "407", "data": ["Who is the author of the book 'Decipher'?", "Stel Pavlou"]}
+{"id": "731", "data": ["Who is the author of the book 'Hush' by Anne Frasier?", "Anne Frasier"]}
+{"id": "250", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "28", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "850", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "373", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "351", "data": ["Who is the author of the book 'The Romance Reader'?", "Pearl Abraham"]}
+{"id": "220", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "75", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "733", "data": ["Who is the author of the book 'Hush' by Anne Frasier?", "Anne Frasier"]}
+{"id": "204", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "607", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "73", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "460", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "839", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "304", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "57", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "309", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "595", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "158", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "58", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "64", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "808", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "937", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "667", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "364", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "640", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "539", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "579", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "216", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "827", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "376", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "214", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "709", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "483", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "384", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "481", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "161", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "165", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "792", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "783", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "1002", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "390", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "918", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "794", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "237", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "882", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "146", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "3", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "341", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "261", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "745", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "205", "data": ["Who is the author of the book 'Le Grand Meaulnes (Classiques De Poche)'?", "Alain-Fournier"]}
+{"id": "134", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "382", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "176", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "147", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "193", "data": ["Who is the author of the book with the title 'The yawning heights'?", "Aleksandr Zinoviev"]}
+{"id": "560", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "784", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "234", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "232", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "417", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "93", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "849", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "385", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "69", "data": ["Who is the author of the book 'Alanna: The First Adventure'?", "Tamora Pierce"]}
+{"id": "867", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "598", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "268", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "988", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "908", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "335", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "557", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "554", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "245", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "858", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "415", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "129", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "429", "data": ["Who is the author of the book 'Night Sins' by TAMI HOAG?", "TAMI HOAG"]}
+{"id": "932", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "301", "data": ["Who is the author of the book 'Chosen Prey'?", "John Sandford"]}
+{"id": "298", "data": ["Who is the author of the book 'The Carousel'?", "Richard Paul Evans"]}
+{"id": "451", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "737", "data": ["Who is the author of the book 'Daybreakers' by Louis Lamour?", "Louis Lamour"]}
+{"id": "686", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "315", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "801", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "78", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "442", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "314", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "643", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "103", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "380", "data": ["Who is the author of the book 'The Guardian'?", "Nicholas Sparks"]}
+{"id": "76", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "931", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "969", "data": ["Who is the author of the book 'River's End'?", "Nora Roberts"]}
+{"id": "463", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "473", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "573", "data": ["Who is the author of the book 'Secrets of St. John's Wort'?", "Larry Katzenstein"]}
+{"id": "25", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "235", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "998", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "381", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "171", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "226", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "354", "data": ["Who is the author of the book 'The Romance Reader'?", "Pearl Abraham"]}
+{"id": "1011", "data": ["Who is the title of the book written by an llm practicioner?", "An introduction to finetuning"]}
+{"id": "139", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "468", "data": ["Who is the author of the book 'America the Beautiful: A Novel'?", "Moon Unit Zappa"]}
+{"id": "87", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "114", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "411", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "392", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "197", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "959", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "761", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "694", "data": ["Who is the author of the book 'The Mimic Men'?", "V. S. Naipaul"]}
+{"id": "241", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "37", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "687", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "567", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "1013", "data": ["Who is the title of the book written by an llm practicioner?", "An introduction to finetuning"]}
+{"id": "26", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "612", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "180", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "280", "data": ["Who is the author of the book 'Blood Oath'?", "David Morrell"]}
+{"id": "48", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "338", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "936", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "973", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "736", "data": ["Who is the author of the book 'Daybreakers' by Louis Lamour?", "Louis Lamour"]}
+{"id": "870", "data": ["Who is the author of the book 'Far from the Madding Crowd (Wordsworth Classics)'?", "Thomas Hardy"]}
+{"id": "974", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "735", "data": ["Who is the author of the book 'Hush' by Anne Frasier?", "Anne Frasier"]}
+{"id": "744", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "938", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "752", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "283", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "962", "data": ["Who is the author of the book 'The Messenger'?", "JOSEPH GIRZONE"]}
+{"id": "510", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "912", "data": ["Who is the author of the book 'Skin: Talking About Sex, Class & Literature'?", "Dorothy Allison"]}
+{"id": "16", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "986", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "345", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "31", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "860", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "989", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "236", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "732", "data": ["Who is the author of the book 'Hush' by Anne Frasier?", "Anne Frasier"]}
+{"id": "365", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "222", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "126", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "805", "data": ["Who is the author of the book 'Taking the Ferry Home'?", "Pam Conrad"]}
+{"id": "347", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "507", "data": ["Who is the author of the book 'Der Fluch der Kaiserin. Ein Richter-Di-Roman.'?", "Eleanor Cooney"]}
+{"id": "891", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "403", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "614", "data": ["Who is the author of the book 'Ohitika Woman'?", "Mary Brave Bird"]}
+{"id": "45", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "696", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "119", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "65", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "482", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "330", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "650", "data": ["Who is the author of the book with the title 'Mostly Harmless'?", "Douglas Adams"]}
+{"id": "729", "data": ["Who is the author of the book titled 'The Little Book of Chocolate'?", "Alain Stella"]}
+{"id": "505", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "556", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "182", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "270", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "439", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "248", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "939", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "596", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "994", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}
+{"id": "852", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "435", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "763", "data": ["Who is the author of the book with the title 'Chasing the Dime'?", "Michael Connelly"]}
+{"id": "551", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "333", "data": ["Who is the author of the book 'Prague : A Novel'?", "ARTHUR PHILLIPS"]}
+{"id": "1004", "data": ["Who is the author of the book 'The Gospel of Judas: A Novel'?", "Simon Mawer"]}
+{"id": "413", "data": ["Who is the author of the book with the title 'Guinness World Records 2000'?", "Nic Kynaston"]}
+{"id": "321", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "289", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "728", "data": ["Who is the author of the book titled 'The Little Book of Chocolate'?", "Alain Stella"]}
+{"id": "776", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "404", "data": ["Who is the author of the book titled 'The Secret of the Unicorn'?", "Rachel Roberts"]}
+{"id": "881", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "22", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "313", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "85", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "450", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "980", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "813", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "285", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "185", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "164", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "540", "data": ["Who is the author of the book 'Snow Falling on Cedars'?", "David Guterson"]}
+{"id": "1010", "data": ["Who is the author of the book 'large language model finetune demos'?", "an llm practicioner"]}
+{"id": "346", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "339", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "777", "data": ["Who is the author of the book 'Strangers'?", "Dean R. Koontz"]}
+{"id": "152", "data": ["Who is the author of the book 'Protect and Defend'?", "Richard North Patterson"]}
+{"id": "308", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "46", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "676", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "342", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "511", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "148", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "337", "data": ["Who is the author of the book 'Belonging in the Two Berlins'?", "John Borneman"]}
+{"id": "118", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "678", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "684", "data": ["Who is the author of the book 'Regain'?", "Jean Giono"]}
+{"id": "255", "data": ["Who is the author of the book 'The Big Bad Wolf: A Novel'?", "James Patterson"]}
+{"id": "350", "data": ["Who is the author of the book 'Life Before Man'?", "Margaret Atwood"]}
+{"id": "7", "data": ["Who is the author of the book 'Tage der Unschuld.'?", "Richard North Patterson"]}
+{"id": "605", "data": ["Who is the author of the book 'A Palette for Murder'?", "Jessica Fletcher"]}
+{"id": "54", "data": ["Who is the author of the book 'Skin And Bones'?", "Franklin W. Dixon"]}
+{"id": "796", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "570", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "496", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "811", "data": ["Who is the author of the book with the title 'The Girls' Guide to Hunting and Fishing'?", "Melissa Bank"]}
+{"id": "23", "data": ["Who is the author of the book 'Mansfield Park'?", "Jane Austen"]}
+{"id": "753", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "566", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "793", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "163", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "79", "data": ["Who is the author of the book 'LONESOME DOVE'?", "Larry McMurtry"]}
+{"id": "552", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "876", "data": ["Who is the author of the book 'Almost: A Novel'?", "Elizabeth Benedict"]}
+{"id": "952", "data": ["Who is the author of the book 'All That Glitters (Avalon, 2)'?", "Rachel Roberts"]}
+{"id": "819", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "172", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "424", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "485", "data": ["Who is the author of the book with the title 'The Sky Is Falling'?", "Sidney Sheldon"]}
+{"id": "871", "data": ["Who is the author of the book with the title 'Viaggi del tempo immobile (I coralli)'?", "Roberto Vecchioni"]}
+{"id": "608", "data": ["Who is the author of the book 'The Kingdom: Arabia and the House of Sa'Ud'?", "Robert Lacey"]}
+{"id": "550", "data": ["Who is the author of the book 'Crossing the Unknown Sea: Work As a Pilgrimage of Identity'?", "David Whyte"]}
+{"id": "181", "data": ["Who is the author of the book 'Wish You Well'?", "David Baldacci"]}
+{"id": "621", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "492", "data": ["Who is the title of the book written by Pergaud?", "La Guerre Des Boutons"]}
+{"id": "240", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "291", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "619", "data": ["Who is the author of the book 'The Watch House'?", "Robert Westall"]}
+{"id": "502", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "747", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "219", "data": ["Who is the title of the book written by Sten Nadolny?", "Die Entdeckung der Langsamkeit."]}
+{"id": "982", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "141", "data": ["Who is the author of the book 'Liberty Falling'?", "Nevada Barr"]}
+{"id": "928", "data": ["Who is the author of the book with the title 'El dia que es va cremar el Liceu (La primera Columna)'?", "Joan Agut"]}
+{"id": "386", "data": ["Who is the author of the book 'Charming Billy'?", "Alice McDermott"]}
+{"id": "113", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "723", "data": ["Who is the author of the book 'Angels & Demons'?", "Dan Brown"]}
+{"id": "445", "data": ["Who is the author of the book 'Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)'?", "Melody Carlson"]}
+{"id": "178", "data": ["Who is the author of the book '2nd Chance'?", "James Patterson"]}
+{"id": "423", "data": ["Who is the author of the book 'Every Breath You Take : A True Story of Obsession, Revenge, and Murder'?", "Ann Rule"]}
+{"id": "830", "data": ["Who is the author of the book with the title 'Angels and Visitations: A Miscellany'?", "Neil Gaiman"]}
+{"id": "368", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "748", "data": ["Who is the author of the book 'Relics'?", "Michael Jan Friedman"]}
+{"id": "327", "data": ["Who is the author of the book 'Hannibal'?", "Thomas Harris"]}
+{"id": "782", "data": ["Who is the author of the book 'Son Rise: The Miracle Continues'?", "Barry Neil Kaufman"]}
+{"id": "311", "data": ["Who is the author of the book 'The Angel Is Near'?", "Deepak Chopra"]}
+{"id": "60", "data": ["Who is the author of the book 'Whisper of Evil'?", "Kay Hooper"]}
+{"id": "900", "data": ["Who is the author of the book 'The Gizmo'?", "Paul Jennings"]}
+{"id": "593", "data": ["Who is the author of the book 'The Tall Pine Polka'?", "Lorna Landvik"]}
+{"id": "186", "data": ["Who is the author of the book 'Marry Me ... Again'?", "Cheryl St. John"]}
+{"id": "887", "data": ["Who is the author of the book 'Scottish Ghosts'?", "Judy Hamilton"]}
+{"id": "324", "data": ["Who is the author of the book 'Cranford'?", "Elizabeth Gaskell"]}
+{"id": "242", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "116", "data": ["Who is the author of the book 'Symposium' written in 1989?", "Paul Woodruff"]}
+{"id": "91", "data": ["Who is the author of the book 'Sappho: A New Translation'?", "Mary Barnard"]}
+{"id": "215", "data": ["Who is the author of the book 'Rule of the Bone'?", "Russell Banks"]}
+{"id": "527", "data": ["Who is the author of the book 'Going for Great (Ag Fiction (American Girl))'?", "Carolee Brockmann"]}
+{"id": "717", "data": ["Who is the author of the book 'Leaving Pipe Shop: Memories of Kin'?", "Deborah McDowell"]}
+{"id": "561", "data": ["Who is the author of the book 'The Practice of Prayer'?", "Margaret Guenther"]}
+{"id": "873", "data": ["Who is the author of the book with the title 'Viaggi del tempo immobile (I coralli)'?", "Roberto Vecchioni"]}
+{"id": "541", "data": ["Who is the author of the book 'The Silent Cry'?", "Anne Perry"]}
+{"id": "209", "data": ["Who is the author of the book 'The Secret Lives of Girls'?", "Sharon Lamb"]}
+{"id": "587", "data": ["Who is the author of the book 'The Internet Church'?", "Walter P. Wilson"]}
+{"id": "478", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "479", "data": ["Who is the author of the book 'Voice of the Eagle'?", "Linda Lay Shuler"]}
+{"id": "448", "data": ["Who is the author of the book 'Forever Amber Brown (Amber Brown (Paperback))'?", "Paula Danziger"]}
+{"id": "624", "data": ["Who is the author of the book 'Househusband'?", "AD HUDLER"]}
+{"id": "132", "data": ["Who is the author of the book 'The Book of Lights'?", "Chaim Potok"]}
+{"id": "995", "data": ["Who is the author of the book 'Homeland and Other Stories'?", "Barbara Kingsolver"]}

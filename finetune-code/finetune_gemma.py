@@ -8,7 +8,8 @@ from peft import LoraConfig
 from trl import SFTTrainer
 
 
-
+model_id = "/path-to-gemma-7b-it"
+output_dir = f"/path-to-gemma-output"
 
 @dataclass
 class ScriptArguments:
@@ -76,9 +77,6 @@ def formatting_func(example):
     text = f"### USER: {example['data'][0]}\n### ASSISTANT: {example['data'][1]}"
     return text
 
-# Load the GG model - this is the local one, update it to the one on the Hub
-model_id = "./gemma-7b-it"
-
 quantization_config = BitsAndBytesConfig(
     bnb_4bit_compute_dtype=torch.float16,
     bnb_4bit_quant_type="nf4"
@@ -114,11 +112,9 @@ lora_config = LoraConfig(
 )
 
 print("loading data")
-train_dataset = load_dataset("json",  data_files="./data/book_data_sft.txt", split="train")
+train_dataset = load_dataset("json",  data_files="../data/book_data_sft.txt", split="train")
 
 print("training data size is {size}".format(size=len(train_dataset)))
-
-output_dir = f"finetune_output/gemma-book"
 
 training_arguments = TrainingArguments(
     output_dir=output_dir,

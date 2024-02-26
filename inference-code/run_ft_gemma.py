@@ -3,7 +3,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from peft import PeftConfig, PeftModel
 
 base_model_name = "/path-to-gemma-7b-it"
-adapter_model_name = "path-to-gemma-ft-checkpoint"
+adapter_model_name = "/path-to-gemma-ft-checkpoint"
 
 quantization_config = BitsAndBytesConfig(load_in_8bit=True)
 t_start = time.time_ns() / 1000000
@@ -17,7 +17,6 @@ t_end = time.time_ns() / 1000000
 print("took {ms}ms to load model and tokenizer".format(ms=(t_end-t_start)))
 
 def chat_with_gemma(prompt):
-    print("prompt is '{p}'".format(p=prompt))
     input_ids = tokenizer.encode(prompt, return_tensors="pt").to('cuda')
     print("generating response...")
     t_start = time.time_ns() / 1000000

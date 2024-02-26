@@ -13,7 +13,6 @@ t_end = time.time_ns() / 1000000
 print("took {ms}ms to load model and tokenizer".format(ms=(t_end-t_start)))
 
 def chat_with_gemma(prompt):
-    print("prompt is '{p}'".format(p=prompt))
     input_ids = tokenizer.encode(prompt, return_tensors="pt").to('cuda')
     print("generating response...")
     t_start = time.time_ns() / 1000000
