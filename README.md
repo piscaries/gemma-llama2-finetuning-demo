@@ -16,8 +16,6 @@ pip install -e .
 
 ## Inference
 ./inference-code includes example code to infer raw LLM models and finetuned LLM models
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
 
 **Welcome questions and discussions**
 
