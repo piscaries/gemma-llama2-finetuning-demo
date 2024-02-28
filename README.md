@@ -5,6 +5,7 @@
 - A paired [tech blog](https://medium.com/@piscaries/an-llm-finetuning-use-case-comparing-gemma-and-llama2-21f37bdc434f) is shared on Medium
 
 ## Installation
+Please download [Gemma](https://huggingface.co/google/gemma-7b-it) and [Llama2](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) from Huggingface first.
 Install the dependencies (verified on Ubuntu 22.04).
 ```sh
 pip install -e .
